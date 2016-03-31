@@ -14,7 +14,7 @@
 ####3. 这篇文章说是讲红包插件，实际上是介绍了Android里的AccessibilityService的使用。 
 * [Android中微信抢红包插件原理解析和开发实现](http://blog.csdn.net/jiangwei0910410003/article/details/48895153)
 
-####4. Lint我没有使用过，这篇文章来自美团团队，他们的Lint实践，有兴趣的可以看看。
+####4. 这篇文章来自美团团队的Lint实践，有兴趣的可以看看。
 * [Android自定义Lint实践](http://tech.meituan.com/android_custom_lint.html)
 
 ####5. Android的65k方法数的限制是来自哪里？
