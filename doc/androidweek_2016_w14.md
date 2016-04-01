@@ -6,7 +6,7 @@
 * [Android 7.0 预览版发布了](http://www.androidchina.net/4653.html)
 
 
-####2. 下面这几篇文章介绍了apk文件里的几个文件的文件格式
+####2. 下面这几篇文章介绍了apk文件里的几个文件的文件格式。以前搜了好几次dex的文件格式，都只能找到一个大概的，找不到详细的，这里面的这篇看起来还比较详细。
 * [	Android逆向之旅---解析编译之后的AndroidManifest文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50568487)
 * [ Android逆向之旅---解析编译之后的Resource.arsc文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50628894)
 * [Android逆向之旅---解析编译之后的Dex文件格式](http://blog.csdn.net/jiangwei0910410003/article/details/50668549)
